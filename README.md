@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Atualmente procuro projetos em que possa desenvolver minhas habilidades.<br>👯 Gosto de trabalhar em vários projetos, principalmente quando é algo novo.<br>🤝 Procuro ajuda para melhorar minhas habilidades e aprimorar meus conhecimentos.<br>🌱 Estudo web development e cyber security.<br><br>⚡ Avatar do perfil feito por @jay_y__
+🔭 Atualmente procuro projetos em que possa desenvolver minhas habilidades.<br>
+👯 Gosto de trabalhar em vários projetos, principalmente quando é algo novo.<br>
+🤝 Procuro ajuda para melhorar minhas habilidades e aprimorar meus conhecimentos.<br>
+🌱 Estudo web development e cyber security.<br>
+<br>⚡ Avatar do perfil feito por @jay_y__ (em produção)
 
 
 # 💻 Tech Stack:
